@@ -13,6 +13,11 @@
 				"class_name": "Project",
 				"name": "PROJECT",
 				"script_name": "do-classes"
+			},
+			{
+				"class_name": "Container",
+				"name": "CONTAINER",
+				"script_name": "do-classes"
 			}
 		]
 	},
